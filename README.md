@@ -1,2 +1,1 @@
-Este repositorio contiene un sistema de votación en java que calcula los porcentajes de votos.
-(Actividad 01)
+Este repositorio contiene las actividades que iremos realizando en la EE de Programacion para aplicaciones. 
